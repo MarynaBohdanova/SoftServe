@@ -46,7 +46,6 @@
                 Console.WriteLine("year is not a leap");
             }
 
-            //---------------------------------------------------------
             //6.Find the sum of digits of the entered integer number //(365 -> 3+6+5)
             Console.WriteLine("6.Find the sum of digits of the entered integer number //(365 -> 3+6+5)");
             string inputFromKeyBoard = Console.ReadLine();
@@ -120,5 +119,7 @@
             }
             Console.WriteLine(commonSum);
         }
+
     }
+
 }
